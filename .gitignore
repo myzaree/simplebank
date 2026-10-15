@@ -1,0 +1,9 @@
+cd ~/Documents/Golang/Course/Golang_masterclass/simplebank
+cat > .gitignore <<'EOF'
+.DS_Store
+.idea/
+.vscode/
+*.env
+bin/
+coverage.out
+EOF
